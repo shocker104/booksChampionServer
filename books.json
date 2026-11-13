@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "category": "Realismo mágico",
+    "year": 1967,
+    "description": "Una historia multigeneracional sobre la familia Buendía en el mítico pueblo de Macondo."
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Distopía",
+    "year": 1949,
+    "description": "Una visión escalofriante de un régimen totalitario y de los peligros de la vigilancia masiva y la censura."
+  },
+  {
+    "id": 3,
+    "title": "El Principito",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Infantil",
+    "year": 1943,
+    "description": "Un cuento poético que explora la soledad, la amistad y la naturaleza de las relaciones humanas."
+  }
+]
